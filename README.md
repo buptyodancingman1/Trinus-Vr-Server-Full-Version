@@ -241,3 +241,6 @@ This repository serves as the official landing page for Trinus VR Server. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Trinus VR Server today!**
+
+---
+**Last updated:** 2026-09-08 16:56:32 UTC
