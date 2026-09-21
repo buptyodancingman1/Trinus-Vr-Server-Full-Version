@@ -243,4 +243,4 @@ This repository serves as the official landing page for Trinus VR Server. The so
 **Get the most recent version of Trinus VR Server today!**
 
 ---
-**Last updated:** 2026-09-21 17:31:02 UTC
+**Last updated:** 2026-09-21 21:28:14 UTC
